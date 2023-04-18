@@ -43,42 +43,18 @@ Kali Linux - Installation(Kurulum):
 
 - chmod +x ayteamhacktool.sh
 
-- ./darkhacktool.sh
+- ./ayteamhacktool.sh
 
-Termux - Installation(Kurulum):
+Termux - Installation(Kurulum)
 --
 - git clone https://github.com/SQUEZY0001
 
-- cd darkHackTool
+- cd AYTEAM
 
-- chmod +x darkhacktool-termux.sh
+- chmod +x  ayteam-termux
 
-- ./darkhacktool-termux.sh
+- ./ayteam-termux.sh
 
---------------------------------------------------------------------------
-
-Yenilikler Ve Kullanımları :
-----
-- Renklendirildi Ve Banner Otomatik Değiştirelecek Şekilde Ayarlandı.
-
-- ./darkhacktool.sh -v Parametresi Eklendi,Scriptin Sürümünü Gösterir.
-
-- ./darkhacktool.sh -h Parametresi Eklendi,Scriptin Yapımcıları Hakkında Bilgi Verir.
-
-- ./darkhacktool.sh -s Parametresi Eklendi,Scriptteki Programlar Çalışmaz İse Silinmesi İçin Kullanılır.
-
-- Hatalar Giderildi.
-
-Innovations And Uses :
-----
-- It's Colored And The Banner Is Set To Change Automatically.
-
-- . /darkhacktool.sh - V parameter added, indicates the version of Scriptin.
-
-- . /darkhacktool.sh -H parameter added, gives information about Scriptin makers.
-
-- . /darkhacktool.sh the-s parameter is added, used to delete programs in the script if they do not work.
-
-- Bugs Fixed.
+-----------------------------------------------
 
 
